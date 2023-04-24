@@ -3,7 +3,7 @@ import { Card } from "primereact/card";
 import { Menu } from "primereact/menu";
 import { Toast } from "primereact/toast";
 import { Image } from "primereact/image";
-import admin from "./image/ouma.png";
+import admin from "./image/ima.jpeg";
 
 import "primereact/resources/themes/lara-light-indigo/theme.css";
 
@@ -60,7 +60,7 @@ function Banner() {
   return (
     <div>
       <div className="banner">
-        <img alt="Card" src={admin} height={"250px"} />
+        <img alt="Card" src={admin} className="bg-cover" />
         <h1>EL MARDI OUMAIMA</h1>
         <div style={{ margin: "2rem" }}>
           <a href="https://github.com/oumaimaelmardi">

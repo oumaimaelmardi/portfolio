@@ -187,7 +187,14 @@
 
 */
 
+.p-megamenu{
+  display: flex;
+ flex-direction: column;
+ flex-wrap: wrap;
 
+ margin-bottom: 5rem;
+ align-items: center;
+ justify-content: center;}
   
 .Footer{
   background-color: #ffffff;

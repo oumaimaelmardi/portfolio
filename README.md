@@ -29,7 +29,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/username/portfolio.git
+git clone https://github.com/oumaimaelmardi/portfolio
 Install dependencies:
 
 Copy code

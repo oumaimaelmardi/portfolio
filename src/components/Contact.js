@@ -36,7 +36,10 @@ function Contact() {
                     style={{ fontSize: "2rem" }}
                   ></i>
                   <p>Github</p>
-                  <a href="https://github.com/oumaimaelmardi">
+                  <a
+                    href="https://github.com/oumaimaelmardi"
+                    style={{ textDecoration: "none", color: "black" }}
+                  >
                     <i className="pi pi-arrow-right"></i>
                   </a>
                 </Card>
@@ -48,7 +51,10 @@ function Contact() {
                     style={{ fontSize: "2rem" }}
                   ></i>
                   <p>Linkedin</p>
-                  <a href="https://www.linkedin.com/in/oumaima-el-mardi-1188a2209/">
+                  <a
+                    href="https://www.linkedin.com/in/oumaima-el-mardi-1188a2209/"
+                    style={{ textDecoration: "none", color: "black" }}
+                  >
                     <i className="pi pi-arrow-right"></i>
                   </a>
                 </Card>

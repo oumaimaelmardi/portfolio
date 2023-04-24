@@ -85,7 +85,7 @@ function Banner() {
           Futur ingénieur en informatique et réseaux, actuellement en quatrième
           année à l'EMSI (Ecole Marocaine des Sciences de l'Ingénieur). je suis
           une personne déterminée, créative, a une grande capacité d'analyse.
-          Par rapport au savoir faire, grâce aux stage et formations en ligne
+          Par rapport au savoir faire, grâce aux stages et formations en ligne
           que j'ai eu la chance de suivre, j'ai pu approfondir mes connaissances
           et compétences dans Spring boot, Angular, JavaScript, Django, React.
         </p>

@@ -1,15 +1,19 @@
 
 Portfolio
+
 This is a personal portfolio website built using ReactJS, PrimeReact, and PrimeFlex. The website showcases my skills, projects, and work experience to potential employers and clients.
 
 Features
+
 Home page: A brief introduction about myself and my skills.
 About page: A detailed information about my background, education, experience, and skills.
 Projects page: A collection of my past projects with descriptions, images, and links.
 Experience page:  A detailed information about my background, education, experience, and skills.
 Formation page :  A detailed information about my online formations.
 Contact page: A contact form that allows visitors to send me a message directly.
+
 Technologies Used
+
 ReactJS
 PrimeReact
 PrimeFlex

@@ -1,0 +1,18 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+}
+html{
+  scroll-behavior: smooth;
+  background-color: #f8f9f8;
+}
+
+.fix{
+  margin-bottom: 0px;
+}
+body {
+
+  overflow-x: hidden; /* Hide horizontal scrollbar */
+}
